@@ -1,0 +1,21 @@
+{
+  "name": "collectif.oswin.io",
+  "version": "1.0.0",
+  "description": "My posh Nuxt.js project",
+  "author": "Nicolas 0swin Roger",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@fullhuman/postcss-purgecss": "^1.3.0",
+    "nuxt": "^2.0.0",
+    "nuxt-purgecss": "^0.2.1"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^1.0.0"
+  }
+}
