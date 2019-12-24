@@ -77,6 +77,33 @@ export default {
               }
             }
           }
+        },
+        CharlieDelahousse: {
+          profile: {
+            name: "Charlie Delahousse",
+            job: "Graphic Designer",
+            photo: "assets/jpg/charliedelahousse.jpg",
+            skills: {
+              1: "3D : Art & Motion",
+              2: "Motion Design",
+              3: "Photography & Video"
+            },
+            links: {
+              instagram: {
+                text: "instagram",
+                url: "https://www.instagram.com/charlie_delahousse1"
+              },
+              linkedin: {
+                text: "linkedin",
+                url:
+                  "Consultez le profil de Charlie Delahousse sur LinkedIn https://www.linkedin.com/in/charlie-delahousse"
+              },
+              web: {
+                text: "web",
+                url: "https://charlie.oswin.io/"
+              }
+            }
+          }
         }
       }
     };
